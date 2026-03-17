@@ -1,17 +1,17 @@
-body{
+body {
   margin: 0;
 }
 
-header{
+header {
   background-color: lightgreen;
-  min-hight: 50px;
+  min-height: 50px;
   display: flex;
   justify-content: flex-end;
   align-items: center
     
     & ul {
-      list-style: none;
-      display: flex;
-      gap: 20px;
+    list-style: none;
+    display: flex;
+    gap: 20px;
   }
 }
